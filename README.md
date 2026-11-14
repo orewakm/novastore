@@ -7,8 +7,8 @@ SQL Server 2022 (T-SQL), Docker, VS Code with the SQL Server (mssql) extension.
 ## Getting started
 
 ```bash
-git clone https://github.com/orewakm/novastore_sql.git
-cd novastore_sql
+git clone https://github.com/orewakm/novastore.git
+cd novastore
 docker compose up -d
 ```
 
